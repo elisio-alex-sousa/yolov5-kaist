@@ -1,0 +1,87 @@
+## VISIBLE
+
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set6-v0.txt --save-txt --save-conf --name test-day-visible-set6-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set6-v1.txt --save-txt --save-conf --name test-day-visible-set6-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set6-v2.txt --save-txt --save-conf --name test-day-visible-set6-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set6-v3.txt --save-txt --save-conf --name test-day-visible-set6-v3 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set6-v4.txt --save-txt --save-conf --name test-day-visible-set6-v4 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set7-v0.txt --save-txt --save-conf --name test-day-visible-set7-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set7-v1.txt --save-txt --save-conf --name test-day-visible-set7-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set7-v2.txt --save-txt --save-conf --name test-day-visible-set7-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set8-v0.txt --save-txt --save-conf --name test-day-visible-set8-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set8-v1.txt --save-txt --save-conf --name test-day-visible-set8-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-day-visible-set8-v2.txt --save-txt --save-conf --name test-day-visible-set8-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-night-visible-set9-v0.txt --save-txt --save-conf --name test-night-visible-set9-v0  --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-night-visible-set10-v0.txt --save-txt --save-conf --name test-night-visible-set10-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-night-visible-set10-v1.txt --save-txt --save-conf --name test-night-visible-set10-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-night-visible-set11-v0.txt --save-txt --save-conf --name test-night-visible-set11-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/test-night-visible-set11-v1.txt --save-txt --save-conf --name test-night-visible-set11-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v0.txt --save-txt --save-conf --name train-day-visible-set0-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v1.txt --save-txt --save-conf --name train-day-visible-set0-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v2.txt --save-txt --save-conf --name train-day-visible-set0-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v3.txt --save-txt --save-conf --name train-day-visible-set0-v3 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v4.txt --save-txt --save-conf --name train-day-visible-set0-v4 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v5.txt --save-txt --save-conf --name train-day-visible-set0-v5 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v6.txt --save-txt --save-conf --name train-day-visible-set0-v6 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v7.txt --save-txt --save-conf --name train-day-visible-set0-v7 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set0-v8.txt --save-txt --save-conf --name train-day-visible-set0-v8 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v0.txt --save-txt --save-conf --name train-day-visible-set1-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v1.txt --save-txt --save-conf --name train-day-visible-set1-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v2.txt --save-txt --save-conf --name train-day-visible-set1-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v3.txt --save-txt --save-conf --name train-day-visible-set1-v3 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v4.txt --save-txt --save-conf --name train-day-visible-set1-v4 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set1-v5.txt --save-txt --save-conf --name train-day-visible-set1-v5 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set2-v0.txt --save-txt --save-conf --name train-day-visible-set2-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set2-v1.txt --save-txt --save-conf --name train-day-visible-set2-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set2-v2.txt --save-txt --save-conf --name train-day-visible-set2-v2 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set2-v3.txt --save-txt --save-conf --name train-day-visible-set2-v3 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-day-visible-set2-v4.txt --save-txt --save-conf --name train-day-visible-set2-v4 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-night-visible-set3-v0.txt --save-txt --save-conf --name train-night-visible-set3-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-night-visible-set3-v1.txt --save-txt --save-conf --name train-night-visible-set3-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-night-visible-set4-v0.txt --save-txt --save-conf --name train-night-visible-set4-v0 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-night-visible-set4-v1.txt --save-txt --save-conf --name train-night-visible-set4-v1 --nosave --classes 0
+python3 detect.py --weights yolov5x.pt --source img_lists/visible/train-night-visible-set5-v0.txt --save-txt --save-conf --name train-night-visible-set5-v0 --nosave --classes 0
+
+## LWIR
+
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set6-v0.txt --save-txt --save-conf --name test-day-lwir-set6-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set6-v1.txt --save-txt --save-conf --name test-day-lwir-set6-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set6-v2.txt --save-txt --save-conf --name test-day-lwir-set6-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set6-v3.txt --save-txt --save-conf --name test-day-lwir-set6-v3 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set6-v4.txt --save-txt --save-conf --name test-day-lwir-set6-v4 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set7-v0.txt --save-txt --save-conf --name test-day-lwir-set7-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set7-v1.txt --save-txt --save-conf --name test-day-lwir-set7-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set7-v2.txt --save-txt --save-conf --name test-day-lwir-set7-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set8-v0.txt --save-txt --save-conf --name test-day-lwir-set8-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set8-v1.txt --save-txt --save-conf --name test-day-lwir-set8-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-day-lwir-set8-v2.txt --save-txt --save-conf --name test-day-lwir-set8-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-night-lwir-set9-v0.txt --save-txt --save-conf --name test-night-lwir-set9-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-night-lwir-set10-v0.txt --save-txt --save-conf --name test-night-lwir-set10-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-night-lwir-set10-v1.txt --save-txt --save-conf --name test-night-lwir-set10-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-night-lwir-set11-v0.txt --save-txt --save-conf --name test-night-lwir-set11-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/test-night-lwir-set11-v1.txt --save-txt --save-conf --name test-night-lwir-set11-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v0.txt --save-txt --save-conf --name train-day-lwir-set0-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v1.txt --save-txt --save-conf --name train-day-lwir-set0-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v2.txt --save-txt --save-conf --name train-day-lwir-set0-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v3.txt --save-txt --save-conf --name train-day-lwir-set0-v3 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v4.txt --save-txt --save-conf --name train-day-lwir-set0-v4 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v5.txt --save-txt --save-conf --name train-day-lwir-set0-v5 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v6.txt --save-txt --save-conf --name train-day-lwir-set0-v6 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v7.txt --save-txt --save-conf --name train-day-lwir-set0-v7 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set0-v8.txt --save-txt --save-conf --name train-day-lwir-set0-v8 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v0.txt --save-txt --save-conf --name train-day-lwir-set1-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v1.txt --save-txt --save-conf --name train-day-lwir-set1-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v2.txt --save-txt --save-conf --name train-day-lwir-set1-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v3.txt --save-txt --save-conf --name train-day-lwir-set1-v3 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v4.txt --save-txt --save-conf --name train-day-lwir-set1-v4 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set1-v5.txt --save-txt --save-conf --name train-day-lwir-set1-v5 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set2-v0.txt --save-txt --save-conf --name train-day-lwir-set2-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set2-v1.txt --save-txt --save-conf --name train-day-lwir-set2-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set2-v2.txt --save-txt --save-conf --name train-day-lwir-set2-v2 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set2-v3.txt --save-txt --save-conf --name train-day-lwir-set2-v3 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-day-lwir-set2-v4.txt --save-txt --save-conf --name train-day-lwir-set2-v4 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-night-lwir-set3-v0.txt --save-txt --save-conf --name train-night-lwir-set3-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-night-lwir-set3-v1.txt --save-txt --save-conf --name train-night-lwir-set3-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-night-lwir-set4-v0.txt --save-txt --save-conf --name train-night-lwir-set4-v0 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-night-lwir-set4-v1.txt --save-txt --save-conf --name train-night-lwir-set4-v1 --nosave
+python3 detect.py --weights best.pt --source img_lists/lwir/train-night-lwir-set5-v0.txt --save-txt --save-conf --name train-night-lwir-set5-v0 --nosave
