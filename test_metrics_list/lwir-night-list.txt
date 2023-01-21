@@ -1,0 +1,10 @@
+runs/compare/lwir/test-night-lwir-set10-v0.txt
+runs/compare/lwir/test-night-lwir-set10-v1.txt
+runs/compare/lwir/test-night-lwir-set11-v0.txt
+runs/compare/lwir/test-night-lwir-set11-v1.txt
+runs/compare/lwir/test-night-lwir-set9-v0.txt
+runs/compare/lwir/train-night-lwir-set3-v0.txt
+runs/compare/lwir/train-night-lwir-set3-v1.txt
+runs/compare/lwir/train-night-lwir-set4-v0.txt
+runs/compare/lwir/train-night-lwir-set4-v1.txt
+runs/compare/lwir/train-night-lwir-set5-v0.txt
