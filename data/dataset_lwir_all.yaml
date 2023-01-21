@@ -1,0 +1,50 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train:
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V003/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V004/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V005/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V006/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V007/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set00/V008/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V003/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V004/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set01/V005/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set02/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set02/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set02/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set02/V003/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set02/V004/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set03/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set03/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set04/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set04/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set05/V000/lwir/
+val:
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set06/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set06/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set06/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set06/V003/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set06/V004/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set07/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set07/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set07/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set08/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set08/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set08/V002/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set09/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set10/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set10/V001/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set11/V000/lwir/
+    - /home/easousa/gitroot/datasets/KAIST/kaist-cvpr15/images/set11/V001/lwir/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['person']

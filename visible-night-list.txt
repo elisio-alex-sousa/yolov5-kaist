@@ -1,0 +1,10 @@
+runs/compare/visible/test-night-visible-set10-v0.txt
+runs/compare/visible/test-night-visible-set10-v1.txt
+runs/compare/visible/test-night-visible-set11-v0.txt
+runs/compare/visible/test-night-visible-set11-v1.txt
+runs/compare/visible/test-night-visible-set9-v0.txt
+runs/compare/visible/train-night-visible-set3-v0.txt
+runs/compare/visible/train-night-visible-set3-v1.txt
+runs/compare/visible/train-night-visible-set4-v0.txt
+runs/compare/visible/train-night-visible-set4-v1.txt
+runs/compare/visible/train-night-visible-set5-v0.txt
